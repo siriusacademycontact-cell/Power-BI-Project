@@ -2,7 +2,7 @@
 
 An interactive Business Intelligence dashboard that analyzes road accident data, providing insights into casualty severity, vehicle types, road conditions, and accident trends over time.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/siriusacademycontact-cell/Power-BI-Project/main/dashboard.png)
 
 ## 📊 Overview
 
@@ -51,13 +51,10 @@ This dashboard offers a comprehensive view of road accident statistics, helping 
 ## 📂 Project Structure
 
 ```
-road-accident-dashboard/
+Power-BI-Project/
 │
-├── dashboard.pbix              # Power BI dashboard file
-├── data/
-│   └── road_accidents.csv      # Raw/cleaned dataset
-├── images/
-│   └── dashboard_preview.png   # Dashboard screenshot
+├── dashboard.pbix    # Power BI dashboard file
+├── dashboard.png     # Dashboard screenshot
 └── README.md
 ```
 
@@ -65,7 +62,7 @@ road-accident-dashboard/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/road-accident-dashboard.git
+   git clone https://github.com/siriusacademycontact-cell/Power-BI-Project.git
    ```
 2. Open `dashboard.pbix` in Power BI Desktop (or the relevant tool)
 3. Refresh the data source if needed
@@ -96,3 +93,4 @@ road-accident-dashboard/
 ## 📄 License
 
 This project is licensed under the MIT License — feel free to use and adapt it.
+
